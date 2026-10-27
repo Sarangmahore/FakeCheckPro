@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://fake-check-pro.vercel.app/sitemap.xml
